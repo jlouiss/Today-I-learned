@@ -6,5 +6,8 @@ After completing the challenge I decided to keep the pace and study at least an 
 
 ---
 
-### [#101] - 2018-09-28
+### [102] - 2018-09-29
+I completed the React course on Coursera. I'm halfway through the full stack with react specialization on Coursera.
+
+### [101] - 2018-09-28
 I kept going with the react specialization on Coursera. I learned about the fetch API and integrating fetch with redux.
