@@ -6,13 +6,16 @@ After completing the challenge I decided to keep the pace and study at least an 
 
 ---
 
+### [104] - 2018-10-01
+Continued the React Native course. Learnt about react native elements and react navigation.
+
+
 ### [103] - 2018-09-30
 I started the React Native course on Coursera. Expo is cool.
 
 
 ### [102] - 2018-09-29
 I completed the React course on Coursera. I'm halfway through the full stack with react specialization on Coursera.
-
 
 
 ### [101] - 2018-09-28
