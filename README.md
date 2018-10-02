@@ -1,8 +1,8 @@
-# Today I Learned
+# What I did today
 
 I just finished the [100 Days of Code](https://www.100daysofcode.com/) challenge [link to my repo](https://github.com/jlouiss/100-days-of-code).
 
-After completing the challenge I decided to keep the pace and study at least an hour everyday.
+After completing the challenge I decided to keep the pace and study or code for at least one hour everyday.
 
 ---
 
