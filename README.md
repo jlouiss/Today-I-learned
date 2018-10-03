@@ -6,6 +6,10 @@ After completing the challenge I decided to keep the pace and study at least an 
 
 ---
 
+### [105] - 2018-10-02
+Started refactoring my portfolio. I am rewriting it from scratch with react.
+
+
 ### [104] - 2018-10-01
 Continued the React Native course. Learnt about react native elements and react navigation.
 
