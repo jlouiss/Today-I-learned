@@ -6,6 +6,10 @@ After completing the challenge I decided to keep the pace and study or code for 
 
 ---
 
+### [106] - 2018-10-03
+Finished refactoring my portfolio.
+
+
 ### [105] - 2018-10-02
 Started refactoring my portfolio. I am rewriting it from scratch with react.
 
