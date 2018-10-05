@@ -6,6 +6,10 @@ After completing the challenge I decided to keep the pace and study or code for 
 
 ---
 
+### [108] - 2018-10-05
+Completed M3W1 of the full stack with react specialization.
+
+
 ### [107] - 2018-10-04
 Continued the React Native course. Learnt more about react navigation.
 
