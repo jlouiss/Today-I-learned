@@ -6,7 +6,11 @@ After completing the challenge I decided to keep the pace and study or code for 
 
 ---
 
-### [109] - 2018-01-06
+### [110] - 2018-10-07
+Continued with M3W2: redux and react native
+
+
+### [109] - 2018-10-06
 Started M3W2
 
 
