@@ -6,6 +6,10 @@ After completing the challenge I decided to keep the pace and study or code for 
 
 ---
 
+### [109] - 2018-01-06
+Started M3W2
+
+
 ### [108] - 2018-10-05
 Completed M3W1 of the full stack with react specialization.
 
