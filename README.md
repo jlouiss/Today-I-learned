@@ -5,6 +5,11 @@ I just finished the [100 Days of Code](https://www.100daysofcode.com/) challenge
 After completing the challenge I decided to keep the pace and study or code for at least one hour everyday.
 
 ---
+
+### [112] - 2018-10-09
+M3W2: redux in react native; react native forms
+
+
 ### [111] - 2018-10-08
 M3W2: debugging and redux in react native
 
