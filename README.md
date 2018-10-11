@@ -5,6 +5,10 @@ I just finished the [100 Days of Code](https://www.100daysofcode.com/) challenge
 After completing the challenge I decided to keep the pace and study or code for at least one hour everyday.
 
 ---
+### [114] - 2018-10-11
+M3W2: React native modals
+
+
 ### [113] - 2018-10-10
 M3W2: React native modals
 
