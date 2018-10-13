@@ -6,6 +6,10 @@ After completing the challenge I decided to keep the pace and study or code for 
 
 ---
 
+### [116] - 2018-10-13
+Completed M3W2 of the full stack with react specialization.
+
+
 ### [115] - 2018-10-12
 M3W2: React native modals
 
