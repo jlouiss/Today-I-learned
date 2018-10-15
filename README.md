@@ -5,6 +5,11 @@ I just finished the [100 Days of Code](https://www.100daysofcode.com/) challenge
 After completing the challenge I decided to keep the pace and study or code for at least one hour everyday.
 
 ---
+
+### [118] - 2018-10-15
+M3W3: React native alerts and animations.
+
+
 ### [117] - 2018-10-14
 M3W3: React native swipeout, react native alerts.
 
