@@ -5,6 +5,9 @@ I just finished the [100 Days of Code](https://www.100daysofcode.com/) challenge
 After completing the challenge I decided to keep the pace and study or code for at least one hour everyday.
 
 ---
+###[119] - 2018-10-16
+M3W3: Learnt about PanResponder and gestures, then how to persist a redux store with redux-persist
+
 
 ### [118] - 2018-10-15
 M3W3: React native alerts and animations.
