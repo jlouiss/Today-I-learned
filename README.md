@@ -5,6 +5,10 @@ I just finished the [100 Days of Code](https://www.100daysofcode.com/) challenge
 After completing the challenge I decided to keep the pace and study or code for at least one hour everyday.
 
 ---
+### [120] - 2018-10-17
+Spent the day configuring my development environment and ssh keys on my new laptop.
+
+
 ###[119] - 2018-10-16
 M3W3: Learnt about PanResponder and gestures, then how to persist a redux store with redux-persist
 
