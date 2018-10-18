@@ -5,6 +5,11 @@ I just finished the [100 Days of Code](https://www.100daysofcode.com/) challenge
 After completing the challenge I decided to keep the pace and study or code for at least one hour everyday.
 
 ---
+
+### [120] - 2018-10-18
+M3W3 complete. React native alerts, react native animatable
+
+
 ### [120] - 2018-10-17
 Spent the day configuring my development environment and ssh keys on my new laptop.
 
