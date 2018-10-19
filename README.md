@@ -6,6 +6,10 @@ After completing the challenge I decided to keep the pace and study or code for 
 
 ---
 
+### [121] - 2018-10-19
+Started M3W4. Last week; wrote a login component using react native SecureStorage.
+
+
 ### [120] - 2018-10-18
 M3W3 complete. React native alerts, react native animatable
 
@@ -14,7 +18,7 @@ M3W3 complete. React native alerts, react native animatable
 Spent the day configuring my development environment and ssh keys on my new laptop.
 
 
-###[119] - 2018-10-16
+### [119] - 2018-10-16
 M3W3: Learnt about PanResponder and gestures, then how to persist a redux store with redux-persist
 
 
