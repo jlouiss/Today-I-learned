@@ -6,6 +6,10 @@ After completing the challenge I decided to keep the pace and study or code for 
 
 ---
 
+### [122] - 2018-10-20
+LocalNotifications in react native
+
+
 ### [121] - 2018-10-19
 Started M3W4. Last week; wrote a login component using react native SecureStorage.
 
