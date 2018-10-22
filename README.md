@@ -6,12 +6,16 @@ After completing the challenge I decided to keep the pace and study or code for 
 
 ---
 
+### [124] - 2018-10-22
+M3W4: Image picking and manipulation in react native
+
+
 ### [123] - 2018-10-21
-Social sharing & Sending emails in react native
+M3W4: Social sharing & Sending emails in react native
 
 
 ### [122] - 2018-10-20
-LocalNotifications in react native
+M3W4: LocalNotifications in react native
 
 
 ### [121] - 2018-10-19
