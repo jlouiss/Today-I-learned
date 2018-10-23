@@ -6,6 +6,10 @@ After completing the challenge I decided to keep the pace and study or code for 
 
 ---
 
+### [125] - 2018-10-23
+M3W4 complete! Image picking and calendar api in react native
+
+
 ### [124] - 2018-10-22
 M3W4: Image picking and manipulation in react native
 
