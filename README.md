@@ -6,6 +6,10 @@ After completing the challenge I decided to keep the pace and study or code for 
 
 ---
 
+### [126] - 2018-10-24
+Started M4W1: Node.js basics and express.js basics.
+
+
 ### [125] - 2018-10-23
 M3W4 complete! Image picking and calendar api in react native
 
