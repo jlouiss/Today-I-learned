@@ -6,6 +6,10 @@ After completing the challenge I decided to keep the pace and study or code for 
 
 ---
 
+### [127] - 2018-10-25
+Express REST API and express router
+
+
 ### [126] - 2018-10-24
 Started M4W1: Node.js basics and express.js basics.
 
