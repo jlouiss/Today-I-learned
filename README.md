@@ -6,6 +6,10 @@ After completing the challenge I decided to keep the pace and study or code for 
 
 ---
 
+### [128] - 2018-10-26
+M4W1 completed. Express.js routers
+
+
 ### [127] - 2018-10-25
 Express REST API and express router
 
