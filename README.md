@@ -6,6 +6,10 @@ After completing the challenge I decided to keep the pace and study or code for 
 
 ---
 
+### [129] - 2018-10-27
+Express generator, MongoDB introduction
+
+
 ### [128] - 2018-10-26
 M4W1 completed. Express.js routers
 
