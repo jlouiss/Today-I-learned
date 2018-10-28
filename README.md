@@ -6,6 +6,10 @@ After completing the challenge I decided to keep the pace and study or code for 
 
 ---
 
+### [130] - 2018-10-28
+Mongoose
+
+
 ### [129] - 2018-10-27
 Express generator, MongoDB introduction
 
