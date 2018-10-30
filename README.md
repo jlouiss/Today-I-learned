@@ -6,6 +6,10 @@ After completing the challenge I decided to keep the pace and study or code for 
 
 ---
 
+### [131] - 2018-10-29
+Build a small SPA to view /r/pics
+
+
 ### [130] - 2018-10-28
 Mongoose
 
