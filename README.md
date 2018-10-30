@@ -6,8 +6,8 @@ After completing the challenge I decided to keep the pace and study or code for 
 
 ---
 
-### [131] - 2018-10-29
-Build a small SPA to view /r/pics
+### [131, 132] - 2018-10-29,30
+Built a small SPA to view /r/pics
 
 
 ### [130] - 2018-10-28
