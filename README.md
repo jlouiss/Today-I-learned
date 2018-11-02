@@ -6,6 +6,10 @@ After completing the challenge I decided to keep the pace and study or code for 
 
 ---
 
+### [134] - 2018-11-02
+Built rock paper scissors in angular
+
+
 ### [133] - 2018-11-01
 Started building a rock paper scissors in angular
 
