@@ -6,6 +6,10 @@ After completing the challenge I decided to keep the pace and study or code for 
 
 ---
 
+### [133] - 2018-11-01
+Started building a rock paper scissors in angular
+
+
 ### [131, 132] - 2018-10-29,30
 Built a small SPA to view /r/pics
 
