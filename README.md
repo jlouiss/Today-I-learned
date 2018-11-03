@@ -6,6 +6,10 @@ After completing the challenge I decided to keep the pace and study or code for 
 
 ---
 
+### [135] - 2018-11-03
+Built a simple REST API with Express, MongoDB and Mongoose
+
+
 ### [134] - 2018-11-02
 Built rock paper scissors in angular
 
