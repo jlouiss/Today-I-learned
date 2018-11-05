@@ -6,6 +6,10 @@ After completing the challenge I decided to keep the pace and study or code for 
 
 ---
 
+### [137] - 2018-11-05
+Learnt about authentication, cookies and sessions in express
+
+
 ### [136] - 2018-11-04
 Completed M4W2
 
