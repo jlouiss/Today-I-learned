@@ -6,6 +6,11 @@ After completing the challenge I decided to keep the pace and study or code for 
 
 ---
 
+### [138] - 2018-11-06
+Did some express authentication
+
+
+
 ### [137] - 2018-11-05
 Learnt about authentication, cookies and sessions in express
 
