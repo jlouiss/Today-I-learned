@@ -6,6 +6,10 @@ After completing the challenge I decided to keep the pace and study or code for 
 
 ---
 
+### [139] - 2018-11-07
+Passport, JWT
+
+
 ### [138] - 2018-11-06
 Did some express authentication
 
