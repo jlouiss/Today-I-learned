@@ -6,13 +6,16 @@ After completing the challenge I decided to keep the pace and study or code for 
 
 ---
 
+### [140] - 2018-11-08
+Passport JWT, Mongoose Population
+
+
 ### [139] - 2018-11-07
 Passport, JWT
 
 
 ### [138] - 2018-11-06
 Did some express authentication
-
 
 
 ### [137] - 2018-11-05
