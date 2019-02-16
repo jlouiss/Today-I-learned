@@ -6,6 +6,18 @@ After completing the challenge I decided to keep the pace and study or code for 
 
 ---
 
+### [0002] - 2019-02-15
+Completed assignment 3 of fullstack course
+
+
+### [0001] - 2019-02-14
+Reviewed authentication in NodeJS 
+
+
+## Update
+I stopped studying, but I'm back!
+
+
 ### [140] - 2018-11-08
 Passport JWT, Mongoose Population
 
