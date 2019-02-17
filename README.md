@@ -6,6 +6,9 @@ After completing the challenge I decided to keep the pace and study or code for 
 
 ---
 
+### [0004] - 2019-02-17
+Completed assignment 4 of fullstack course
+
 
 ### [0003] - 2019-02-16
 Set up a self signed certificate and an https server. Handling file uploads.
