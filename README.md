@@ -6,6 +6,10 @@ After completing the challenge I decided to keep the pace and study or code for 
 
 ---
 
+### [0005] - 2019-02-18
+Learnt how to deploy an Angular app on Heroku
+
+
 ### [0004] - 2019-02-17
 Completed assignment 4 of fullstack course
 
