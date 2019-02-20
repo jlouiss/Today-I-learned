@@ -6,6 +6,10 @@ After completing the challenge I decided to keep the pace and study or code for 
 
 ---
 
+### [0007] - 2019-02-20
+Portacle tutorial
+
+
 ### [0006] - 2019-02-19
 Learnt how to read/write a file on LISP
 
