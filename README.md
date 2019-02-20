@@ -6,6 +6,10 @@ After completing the challenge I decided to keep the pace and study or code for 
 
 ---
 
+### [0006] - 2019-02-19
+Learnt how to read/write a file on LISP
+
+
 ### [0005] - 2019-02-18
 Learnt how to deploy an Angular app on Heroku
 
