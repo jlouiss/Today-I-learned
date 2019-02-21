@@ -6,6 +6,10 @@ After completing the challenge I decided to keep the pace and study or code for 
 
 ---
 
+### [0008] - 2019-02-21
+Learnt about Lambdas, Closures, Keyword parameters in LISP
+
+
 ### [0007] - 2019-02-20
 Portacle tutorial
 
