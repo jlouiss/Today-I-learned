@@ -6,6 +6,10 @@ After completing the challenge I decided to keep the pace and study or code for 
 
 ---
 
+### [0012] - 2019-02-25
+Vanilla JavaScript Challenge Part 2
+
+
 ### [0011] - 2019-02-24
 Vanilla JavaScript Challenge
 
