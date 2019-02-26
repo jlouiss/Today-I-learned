@@ -6,8 +6,12 @@ After completing the challenge I decided to keep the pace and study or code for 
 
 ---
 
+### [0011] - 2019-02-24
+Vanilla JavaScript Challenge
+
+
 ### [0010] - 2019-02-23
-Angular & Python challenge + javascript challenge
+Angular & Python challenge + JavaScript challenge
 
 
 ### [0009] - 2019-02-22
