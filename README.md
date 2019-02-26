@@ -6,6 +6,10 @@ After completing the challenge I decided to keep the pace and study or code for 
 
 ---
 
+### [0010] - 2019-02-23
+Angular & Python challenge + javascript challenge
+
+
 ### [0009] - 2019-02-22
 Reviewed some React.js
 
