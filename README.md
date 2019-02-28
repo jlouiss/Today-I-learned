@@ -6,6 +6,10 @@ After completing the challenge I decided to keep the pace and study or code for 
 
 ---
 
+### [0014] - 2019-02-27
+Studied more nodeJS on pluralsight
+
+
 ### [0013] - 2019-02-26
 Studied nodeJS on pluralsight
 
