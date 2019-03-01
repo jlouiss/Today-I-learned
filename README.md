@@ -6,7 +6,11 @@ After completing the challenge I decided to keep the pace and study or code for 
 
 ---
 
-### [0014] - 2019-02-27
+### [0015] - 2019-03-01
+Studied some nodeJS on pluralsight and practical common lisp
+
+
+### [0014] - 2019-02-28
 Studied more nodeJS on pluralsight
 
 
