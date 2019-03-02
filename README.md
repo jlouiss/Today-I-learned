@@ -6,6 +6,10 @@ After completing the challenge I decided to keep the pace and study or code for 
 
 ---
 
+### [0016] - 2019-03-02
+Worked on a basic database implementation in lisp
+
+
 ### [0015] - 2019-03-01
 Studied some nodeJS on pluralsight and practical common lisp
 
