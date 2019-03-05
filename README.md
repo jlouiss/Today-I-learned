@@ -6,6 +6,10 @@ After completing the challenge I decided to keep the pace and study or code for 
 
 ---
 
+### [0019] - 2019-03-05
+Lisp syntax (lisp forms, brain expensive things)
+
+
 ### [0018] - 2019-03-04
 Lisp syntax (s-expressions)
 
