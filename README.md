@@ -6,6 +6,10 @@ After completing the challenge I decided to keep the pace and study or code for 
 
 ---
 
+### [0018] - 2019-03-04
+Lisp syntax (s-expressions)
+
+
 ### [0017] - 2019-03-03
 Learnt about Lisp macros
 
