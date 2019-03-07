@@ -6,7 +6,11 @@ After completing the challenge I decided to keep the pace and study or code for 
 
 ---
 
-### [0020\ - 2019-03-06
+### [0021] - 2019-03-07
+Lisp syntax (list forms)
+
+
+### [0020] - 2019-03-06
 Lisp syntax (s-expressions)
 
 
