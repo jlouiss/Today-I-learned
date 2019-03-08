@@ -6,6 +6,10 @@ After completing the challenge I decided to keep the pace and study or code for 
 
 ---
 
+### [0022] - 2019-03-08
+Lisp syntax (macros), lisp functions
+
+
 ### [0021] - 2019-03-07
 Lisp syntax (list forms)
 
