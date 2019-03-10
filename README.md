@@ -6,6 +6,10 @@ After completing the challenge I decided to keep the pace and study or code for 
 
 ---
 
+### [0024] - 2019-03-10
+Higher-order functions in lisp and lambdas
+
+
 ### [0023] - 2019-03-09
 Lisp functions syntax: parameter types (required, optional, rest, keyword)
 
