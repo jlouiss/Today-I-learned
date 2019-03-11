@@ -6,6 +6,10 @@ After completing the challenge I decided to keep the pace and study or code for 
 
 ---
 
+### [0025] - 2019-03-11
+Read some Pragmatic Programmer
+
+
 ### [0024] - 2019-03-10
 Higher-order functions in lisp and lambdas
 
