@@ -6,6 +6,10 @@ After completing the challenge I decided to keep the pace and study or code for 
 
 ---
 
+### [0026] - 2019-03-12
+Read more Pragmatic Programmer
+
+
 ### [0025] - 2019-03-11
 Read some Pragmatic Programmer
 
