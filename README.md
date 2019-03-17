@@ -6,6 +6,10 @@ After completing the challenge I decided to keep the pace and study or code for 
 
 ---
 
+### [0030] - 2019-03-16
+Lisp variables, scope, closures
+
+
 ### [0029] - 2019-03-15
 Even more Pragmatic Programmer
 
