@@ -6,6 +6,10 @@ After completing the challenge I decided to keep the pace and study or code for 
 
 ---
 
+### [0031] - 2019-03-18
+Lisp dynamic variables
+
+
 ### [0030] - 2019-03-16
 Lisp variables, scope, closures
 
