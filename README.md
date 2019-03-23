@@ -6,6 +6,10 @@ After completing the challenge I decided to keep the pace and study or code for 
 
 ---
 
+### [0035] - 2019-03-22
+Lisp macros
+
+
 ### [0034] - 2019-03-21
 Lisp macros and loops
 
