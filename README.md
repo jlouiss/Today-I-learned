@@ -6,6 +6,10 @@ After completing the challenge I decided to keep the pace and study or code for 
 
 ---
 
+### [0037] - 2019-03-24
+Pluralsight's NodeJS Path
+
+
 ### [0036] - 2019-03-23
 More lisp macros
 
